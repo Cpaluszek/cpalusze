@@ -4,7 +4,7 @@ metadata:
   name: ingress
 spec:
   rules:
-  - host: "127.0.0.1"
+  - host: "will-app"
     http:
       paths:
       - path: "/app"
