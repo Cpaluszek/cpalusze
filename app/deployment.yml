@@ -8,7 +8,7 @@ spec:
   selector:
     matchLabels:
       app: will
-  temhjk4twlheuirth123nqw:
+  template:
     metadata:
       labels:
         app: will
